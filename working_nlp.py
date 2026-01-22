@@ -9,7 +9,7 @@ Original file is located at
 INSTALLATIONS
 """
 
-!pip install kagglehub
+# !pip install kagglehub
 
 """IMPORTS"""
 
