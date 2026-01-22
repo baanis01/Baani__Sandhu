@@ -215,7 +215,7 @@ print(txtdf)
 """API KEY IN ENV"""
 
 from google.colab import userdata
-api_key = "userdata.get("GEMINI_API_KEY_1")"
+# api_key = "userdata.get("GEMINI_API_KEY_1")"
 
 """MAIN LLM FUNCTION"""
 
